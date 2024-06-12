@@ -1,33 +1,13 @@
 {
   "project_info": {
-    "project_number": "34954487470",
-    "firebase_url": "https://flutter-app-8c92c-default-rtdb.firebaseio.com",
-    "project_id": "flutter-app-8c92c",
-    "storage_bucket": "flutter-app-8c92c.appspot.com"
+    "project_number": "1076051199790",
+    "project_id": "employee-1116e",
+    "storage_bucket": "employee-1116e.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:34954487470:android:5f2d1d2070f788678bef3f",
-        "android_client_info": {
-          "package_name": "com.example.employee"
-        }
-      },
-      "oauth_client": [],
-      "api_key": [
-        {
-          "current_key": "AIzaSyDtTVCO5o8XqLaoilyLC8cfGGpVNHU-7q0"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": []
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:34954487470:android:e8f401c72a3e5e268bef3f",
+        "mobilesdk_app_id": "1:1076051199790:android:6deda2cf108c6e13a3dcbf",
         "android_client_info": {
           "package_name": "com.example.employee_app"
         }
@@ -35,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDtTVCO5o8XqLaoilyLC8cfGGpVNHU-7q0"
+          "current_key": "AIzaSyARoVmqFOOZXzeKjBJJz75KGb-OYGiyPVY"
         }
       ],
       "services": {
@@ -46,15 +26,15 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:34954487470:android:0516e7124d458bb68bef3f",
+        "mobilesdk_app_id": "1:1076051199790:android:f340b0a25f5c66bca3dcbf",
         "android_client_info": {
-          "package_name": "com.example.firebased"
+          "package_name": "com.example.employee_crud"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDtTVCO5o8XqLaoilyLC8cfGGpVNHU-7q0"
+          "current_key": "AIzaSyARoVmqFOOZXzeKjBJJz75KGb-OYGiyPVY"
         }
       ],
       "services": {

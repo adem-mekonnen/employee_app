@@ -39,7 +39,7 @@ class HomeScreenState extends State<HomeScreen> {
           children: [
             const SizedBox(height: 20), // Add some space at the top
             const Text(
-              'Name',
+              'Full Name',
               style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
             ),
             const SizedBox(
@@ -58,7 +58,7 @@ class HomeScreenState extends State<HomeScreen> {
             ),
             const SizedBox(height: 20), // Add some space between the TextFields
             const Text(
-              'Age',
+              'Your Age',
               style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
             ),
             const SizedBox(
