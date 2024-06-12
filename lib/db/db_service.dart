@@ -3,7 +3,8 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import 'user.dart';
 
 class DatabaseService {
-  final _firestore = FirebaseFirestore.instance;
+  final _firestore = FirebaseFirestore.instance; //document
+
   create(User user) async {
     try {
       await _firestore.collection("students").add(user.toMap()
