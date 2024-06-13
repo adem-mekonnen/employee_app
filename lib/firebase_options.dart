@@ -41,51 +41,47 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAnCMnH3qBKUfg77u5VAeNmdWF-JJsnA78',
-    appId: '1:34954487470:web:8f966bbd67b457568bef3f',
-    messagingSenderId: '34954487470',
-    projectId: 'flutter-app-8c92c',
-    authDomain: 'flutter-app-8c92c.firebaseapp.com',
-    databaseURL: 'https://flutter-app-8c92c-default-rtdb.firebaseio.com',
-    storageBucket: 'flutter-app-8c92c.appspot.com',
+    apiKey: 'AIzaSyAG0GFf1OLQQvMpMgqMPNGbvzy7GoIDVV0',
+    appId: '1:58436397984:web:f89d5ab9bcd9535c46d2c5',
+    messagingSenderId: '58436397984',
+    projectId: 'hikpro-46197',
+    authDomain: 'hikpro-46197.firebaseapp.com',
+    storageBucket: 'hikpro-46197.appspot.com',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDtTVCO5o8XqLaoilyLC8cfGGpVNHU-7q0',
-    appId: '1:34954487470:android:e8f401c72a3e5e268bef3f',
-    messagingSenderId: '34954487470',
-    projectId: 'flutter-app-8c92c',
-    databaseURL: 'https://flutter-app-8c92c-default-rtdb.firebaseio.com',
-    storageBucket: 'flutter-app-8c92c.appspot.com',
+    apiKey: 'AIzaSyAWbnlCTOv7P66JoKgbD0GgOzRLIIHV4iA',
+    appId: '1:58436397984:android:1985a07340224d5546d2c5',
+    messagingSenderId: '58436397984',
+    projectId: 'hikpro-46197',
+    storageBucket: 'hikpro-46197.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBMeetvFKLyHk3Pi5cw_VuAWGj953kUfcg',
-    appId: '1:34954487470:ios:8a2e58ad1e0ac7a08bef3f',
-    messagingSenderId: '34954487470',
-    projectId: 'flutter-app-8c92c',
-    databaseURL: 'https://flutter-app-8c92c-default-rtdb.firebaseio.com',
-    storageBucket: 'flutter-app-8c92c.appspot.com',
+    apiKey: 'AIzaSyAHi0yc7wpYogSUR7RdVB_D42_uQ4GCBeM',
+    appId: '1:58436397984:ios:417b12864d6d83ff46d2c5',
+    messagingSenderId: '58436397984',
+    projectId: 'hikpro-46197',
+    storageBucket: 'hikpro-46197.appspot.com',
     iosBundleId: 'com.example.employeeApp',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyBMeetvFKLyHk3Pi5cw_VuAWGj953kUfcg',
-    appId: '1:34954487470:ios:8a2e58ad1e0ac7a08bef3f',
-    messagingSenderId: '34954487470',
-    projectId: 'flutter-app-8c92c',
-    databaseURL: 'https://flutter-app-8c92c-default-rtdb.firebaseio.com',
-    storageBucket: 'flutter-app-8c92c.appspot.com',
+    apiKey: 'AIzaSyAHi0yc7wpYogSUR7RdVB_D42_uQ4GCBeM',
+    appId: '1:58436397984:ios:417b12864d6d83ff46d2c5',
+    messagingSenderId: '58436397984',
+    projectId: 'hikpro-46197',
+    storageBucket: 'hikpro-46197.appspot.com',
     iosBundleId: 'com.example.employeeApp',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyAnCMnH3qBKUfg77u5VAeNmdWF-JJsnA78',
-    appId: '1:34954487470:web:ec970c1983bb4fe88bef3f',
-    messagingSenderId: '34954487470',
-    projectId: 'flutter-app-8c92c',
-    authDomain: 'flutter-app-8c92c.firebaseapp.com',
-    databaseURL: 'https://flutter-app-8c92c-default-rtdb.firebaseio.com',
-    storageBucket: 'flutter-app-8c92c.appspot.com',
+    apiKey: 'AIzaSyAG0GFf1OLQQvMpMgqMPNGbvzy7GoIDVV0',
+    appId: '1:58436397984:web:2a4046ee087d977246d2c5',
+    messagingSenderId: '58436397984',
+    projectId: 'hikpro-46197',
+    authDomain: 'hikpro-46197.firebaseapp.com',
+    storageBucket: 'hikpro-46197.appspot.com',
   );
+
 }
